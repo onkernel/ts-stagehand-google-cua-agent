@@ -6,7 +6,7 @@ https://github.com/user-attachments/assets/d683f527-be61-4551-9745-1144db088127
 
 ## What It Does
 
-This app uses Gemini 2.5's computer use capabilities to autonomously navigate websites and complete tasks. The example task searches for Kernel's company page on YCombinator and writes a blog post about their product.
+This app uses [Gemini 2.5's computer use model](https://blog.google/technology/google-deepmind/gemini-computer-use-model/) capabilities to autonomously navigate websites and complete tasks. The example task searches for Kernel's company page on YCombinator and writes a blog post about their product.
 
 ## Setup
 
